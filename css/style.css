@@ -8,9 +8,9 @@ Author URI: http://bootstrapthemes.co
    Author's custom styles
    ========================================================================== */
 
-
-
-
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,300i,400,500,700,700i,900');
+@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,700');
 
 body {
 	color: #767676;
@@ -92,7 +92,7 @@ input[type="color"],
 .form-control {
 	border: 1px solid #ddd;
 	font-size: 16px;
-	font-family: 'Merriweather', serif;	
+	font-family: 'Merriweather Sans', sans-serif;
 	height: 45px;
 	border-bottom:1px solid #ddd;
 	background-color: rgba(255, 255, 255, 0);
@@ -113,7 +113,7 @@ h1 {
 	font-size: 48px;
 	line-height: 50px;
 	font-weight: 600;
-	font-family: 'Merriweather', serif;
+	font-family: 'Merriweather Sans', sans-serif;
 	text-transform: uppercase;
 }
 
@@ -121,8 +121,7 @@ h2 {
 	font-size: 35px;
 	line-height: 38px;
 	font-weight: 600;
-	font-family: 'Roboto medium', serif;
-	
+	font-family: 'Roboto', sans-serif;
 }
 
 h3 {
@@ -378,7 +377,7 @@ a:hover{
 .single_banner_text h5{
 	font-size:16px;
 	color:#81868e;
-	font-family:'opensans-regular';
+	font-family: 'Open Sans', sans-serif;
 	font-weight:100;
 	letter-spacing:.37rem;
 }
@@ -393,7 +392,7 @@ a:hover{
 .main_abouts_content{}
 .single_abouts{}
 .single_abouts h2{
-	font-family:'Roboto Mediam';
+	font-family: 'Roboto', sans-serif;
 	font-weight:500;
 	font-size:2.5rem;
 	color:#333b46;
@@ -402,20 +401,20 @@ a:hover{
     max-width: 455px;
     line-height: 2.5rem;
     font-size: 1.9rem;
-    font-family: opensans;
+    font-family: 'Open Sans', sans-serif;
 }
 
 
 /* wedo section */
 .head_title h2{
-	font-family:'Roboto';
+	font-family: 'Roboto', sans-serif;
 	font-size:20px;
 	font-weight:500;
 	color:#333b46;
 }
 .head_title p{
 	color: #81868e;
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     max-width: 42%;
     margin: 0 auto;
@@ -498,7 +497,7 @@ a:hover{
 
 .sinle_counter h4{
 	color:#fff;
-	font-family:'Roboto';
+	font-family: 'Roboto', sans-serif;
 	font-weight:300;
 }
 .sinle_counter h4 i{
@@ -508,7 +507,7 @@ a:hover{
 }
 .sinle_counter p{
 	color:#fff;
-	font-family:'Roboto';
+	font-family: 'Roboto', sans-serif;
 	font-weight:300;
 }
 
@@ -563,12 +562,12 @@ a:hover{
 }
 .single_steps h4{
 	margin:30px auto 20px auto;
-	font-family:'Roboto';
+	font-family: 'Roboto', sans-serif;
 	font-weight:300;
 }
 .single_steps p{
 	line-height: 25px;
-	font-family:'OpenSans';
+	font-family: 'Open Sans', sans-serif;
 	font-size:18px;
 }
 
@@ -654,7 +653,7 @@ a:hover{
 }
 .single_service p{
 	color: #fff;
-	font-family:'OpenSans';
+	font-family: 'Open Sans', sans-serif;
 	font-weight:300;
 	max-width:70%;
 }
@@ -678,13 +677,13 @@ a:hover{
 .main_business_content h2{
     color: #fff;
     font-size: 30px;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-weight: 300;
 }
 .main_business_content h4{
 	color:#fff;
     font-size: 20px;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-weight: 300;	
 }
 
@@ -764,13 +763,13 @@ a:hover{
 
 .single_subcribs h4{
 	font-size:20px;
-	font-family:'Roboto';
+	font-family: 'Roboto', sans-serif;
 	font-weight:500;
 	color:#fff;
 }
 .single_subcribs p{
     font-size: 16px;
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     color: #fff;
     line-height: 25px;
@@ -784,7 +783,7 @@ border: 1px solid #fff;
     padding: 5px 10px;
     background: none;
     color: #fff;
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-size: 12px;
 	width:60%;
@@ -795,7 +794,7 @@ border: 1px solid #fff;
     height: 50px;
     margin-left: -5px;
     color: #fff;
-	font-family:'Roboto';
+	font-family: 'Roboto', sans-serif;
 	font-weight:600;
     font-size:12px;	
 	width:20%;
@@ -824,12 +823,12 @@ border: 1px solid #fff;
 .single_team_name h4{
 	font-size:17px;
 	color:#333b46;
-	font-family:'Roboto';
+	font-family: 'Roboto', sans-serif;
 	font-weight:500;
 }
 .single_team_name p{
 	font-size:12px;
-	font-family:'Roboto';
+	font-family: 'Roboto', sans-serif;
 	font-weight:300;	
 }
 
@@ -871,7 +870,7 @@ color:#fff;
 }
 .testimonial .head_title h5{
     font-size: 18px;
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     letter-spacing: 4px;
 	color:#fff;
@@ -891,7 +890,7 @@ color:#fff;
 .single_testimonial_img p{
     width: 55%;
     margin: 0 auto;
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', sans-serif;
     font-style: italic;
     margin-bottom: 30px;
 	color:#fff;
@@ -901,7 +900,7 @@ color:#fff;
 	margin-top:40px;
 	color:#e84c3d;
 	font-size:20px;
-	font-family:'Roboto';
+	ffont-family: 'Roboto', sans-serif;
 	font-weight:500;
 }
 .owl-theme .owl-controls {
@@ -936,7 +935,7 @@ color:#fff;
 .single_blog_overlay p{
 	color:#fff;
 	font-size:14px;
-	font-family:'OpenSans';
+	font-family: 'Open Sans', sans-serif;
 }
 .single_blog_overlay a{
 	color:#fff;
