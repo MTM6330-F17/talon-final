@@ -1,0 +1,22 @@
+{
+  "name": "mtm6330-week5",
+  "version": "1.0.0",
+  "description": "Bootstrap demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert McKenney <robert@mckenney.ca>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^7.1.4",
+    "bootstrap": "^4.0.0-beta",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0",
+    "gulp-sass": "^3.1.0",
+    "jquery": "^3.0.0",
+    "popper.js": "^1.11.0"
+  }
+}
