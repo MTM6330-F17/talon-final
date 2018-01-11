@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Mountain Lake",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum nostrum sequi sed officia consequuntur debitis illum sint ipsam provident pariatur.",
+    "imgUrl": "http://www.gstatic.com/webp/gallery/1.jpg",
+    "isFeatured": false
+  },
+  {
+    "id": 2,
+    "title": "White water kyaking",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "imgUrl": "http://www.gstatic.com/webp/gallery/2.jpg",
+    "isFeatured": true
+  },
+  {
+    "id": 3,
+    "title": "Walk in the rain",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "imgUrl": "http://www.gstatic.com/webp/gallery/3.jpg",
+    "isFeatured": false
+  },
+  {
+    "id": 4,
+    "title": "Tree in bloom",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "imgUrl": "http://www.gstatic.com/webp/gallery/4.jpg",
+    "isFeatured": false
+  },
+  {
+    "id": 5,
+    "title": "Breathing fire!",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "imgUrl": "http://www.gstatic.com/webp/gallery/5.jpg",
+    "isFeatured": true
+  },
+  {
+    "id": 6,
+    "title": "Mountain Lake",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "imgUrl": "http://www.gstatic.com/webp/gallery/1.jpg",
+    "isFeatured": false
+  }
+]
