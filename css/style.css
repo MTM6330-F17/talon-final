@@ -101,7 +101,7 @@ input[type="color"],
   border-color: #e84c3d;
 }
 p {
-	font: normal 16px "Myriad Pro", arial, sans-serif;
+	font-family: 'Calibri', sans-serif;
 }
 
 h1,h2,h3,h4,h5,h6 { color: #767676;}
@@ -239,6 +239,7 @@ a:hover{
     width: 8%;
     margin: 0 auto;
     margin-bottom: 20px;	
+    font-family: 'Calibri', sans-serif;
 }
 .separetor2{
     border-bottom: 3px solid #898989;
@@ -246,6 +247,7 @@ a:hover{
     padding:2px 0px;
     width: 10%;
 	margin-bottom:20px;
+    font-family: 'Calibri', sans-serif;
 }
 .separetorwhite {
     border-bottom: 3px solid #fff;
@@ -253,6 +255,7 @@ a:hover{
     padding: 2px 0px;
     width: 10%;
     margin-bottom: 20px;
+    font-family: 'Calibri', sans-serif;
 }
 .separetorwhite2 {
     border-bottom: 3px solid #fff;
@@ -261,6 +264,7 @@ a:hover{
     width: 8%;
     margin: 0 auto;
     margin-bottom: 20px;
+    font-family: 'Calibri', sans-serif;
 }
 .banner .scroll_btn {
 	background: url(../images/scroll.gif) 50% 50% no-repeat rgba(215, 181 ,94, 0);
@@ -626,16 +630,16 @@ a:hover{
 }
 
 .single_service_area{
-    background: url(../images/service1.jpg) no-repeat left top;
+    background: url(../images/AAEAAQAAAAAAAAiqAAAAJDlkNTcxMzA1LTMzODEtNDA5Mi1iMjk1LTFkZjRmZDMwNjY1ZA.jpg) no-repeat left top;
     height: 337px;
     margin-top: 50px;
 }
 .single_service_area_two{
-	background: url(../images/service2.jpg) no-repeat right top;
+	background: url(../images/DIY-Project-Planning-Workshop.jpg) no-repeat right top;
     height: 337px;
 }
 .single_service_area_three{
-    background: url(../images/service3.jpg) no-repeat left top;
+    background: url(../images/111111111.jpg) no-repeat left top;
     height: 337px;	
 }
 
